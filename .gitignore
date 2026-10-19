@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.egg-info/
+
+vulnscan-report.html
+vulnscan.json
+vulnscan.sarif
+vulnscan-fixes.txt
+.vulnscan-baseline.json
+
+.env
+.vscode/
+.idea/
+.DS_Store
